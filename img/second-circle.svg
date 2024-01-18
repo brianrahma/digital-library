@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="786" height="786" viewBox="0 0 786 786">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6151f9"/>
+      <stop offset="1" stop-color="#f75f9e"/>
+    </linearGradient>
+    <filter id="Ellipse_59" x="0" y="0" width="786" height="786" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_60" x="73" y="73" width="640" height="640" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur-2"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_61" x="134" y="134" width="518" height="518" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur-3"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_62" x="184" y="184" width="419" height="419" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur-4"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_2015" data-name="Group 2015" transform="translate(393 383)">
+    <g transform="matrix(1, 0, 0, 1, -393, -383)" filter="url(#Ellipse_59)">
+      <circle id="Ellipse_59-2" data-name="Ellipse 59" cx="318" cy="318" r="318" transform="translate(711 65) rotate(90)" opacity="0.41" fill="url(#linear-gradient)"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -393, -383)" filter="url(#Ellipse_60)">
+      <circle id="Ellipse_60-2" data-name="Ellipse 60" cx="245" cy="245" r="245" transform="translate(638 138) rotate(90)" opacity="0.41" fill="url(#linear-gradient)"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -393, -383)" filter="url(#Ellipse_61)">
+      <circle id="Ellipse_61-2" data-name="Ellipse 61" cx="184" cy="184" r="184" transform="translate(577 199) rotate(90)" opacity="0.41" fill="url(#linear-gradient)"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -393, -383)" filter="url(#Ellipse_62)">
+      <circle id="Ellipse_62-2" data-name="Ellipse 62" cx="134.5" cy="134.5" r="134.5" transform="translate(528 249) rotate(90)" opacity="0.41" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>
